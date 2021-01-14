@@ -1,0 +1,16 @@
+{
+  "name": "retotecnico.backend.percymescco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "serverless": "^2.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "sls deploy -v",
+    "undeploy": "sls remove"
+  },
+  "author": "",
+  "license": "ISC"
+}
